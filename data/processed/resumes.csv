@@ -1,38 +1,377 @@
 filename,text
-candidate_018.pdf,"EVELYNN ADAMS
-GRADUATE FRESHER
-PROFESSIONAL PROFILE
-I am a recent graduate who is interested
-and fascinated by Machine learning. I
-want to join this industry and be a part of
-it, learn and contribute towards both the
-growth of the company and me as an
-Indivuduals in terms of skills.
-ACHIEVEMENTS AND EXTRA
-CURRICULARS
-Certified Entry Level Python Programmer
-Certified Associate Level in Python
-Programming
-PROJECTS
-Deep Learning assisted Image recognition.
-PROFICIENT SKILLS
-Machine Learning, Deep Learning, Neural
-Networks, ML Algorithms, Python, NumPy,
-Scikit Learn, Matplotlib, Keras, Pandas,
-TensorFlow, Seaborn, Java, ReactJS,
-NodeJS.
-EMPLOYMENT HISTORY
-I was trained on how to use Neural networks w.r.t to classical
-problems that existed in Machine Learning. 
-During the Capstone project I created a supervised model for
-Image recognition with minimal training.
- Intern Trainee, Aug 2020 to Dec 2020
-E-Novate Labs
-EDUCATIONAL HISTORY
-B.Sc (Computer Science) KTM College, Nashik, 2019 
-MCA (Computers), SPP University, Pune, 2021
-Lucknow University"
-1901841_RESUME.pdf,"ANUVA GOYAL 
+Sophia_Mae_Reyes.docx,"Sophia Mae Reyes
+Makati, Philippines | sophia.reyes@email.com |  +63 915 876 4321 
+Education
+B.S. in Artificial Intelligence – De La Salle University, 2021
+Magna Cum Laude | Dean’s Lister (2017–2021)
+Certifications
+TensorFlow Developer Certificate
+Hugging Face NLP Specialization
+Microsoft Azure AI Engineer Associate
+Skills
+Python, PyTorch, TensorFlow, Hugging Face, NLP, Computer Vision, AWS, MLOps, Docker
+Experience
+AI Engineer | VisionAI Corp. | 2022–Present
+Increased chatbot resolution rates by 30% by fine-tuning GPT-based conversational models tailored for customer support.
+Built and deployed a recommendation system using TensorFlow, leading to a 12% increase in upselling conversions.
+Reduced cloud costs by 18% by containerizing AI models and deploying them with AWS Lambda for scalable inference.
+Machine Learning Specialist | NeuroNet Systems | 2021–2022
+Enhanced defect detection accuracy by 22% by developing convolutional neural networks in PyTorch for manufacturing pipelines.
+Reduced model inference time by 40% using quantization and pruning, allowing faster real-time predictions.
+Improved model throughput by 15% by building data augmentation pipelines that diversified training samples.
+Research Assistant | DLSU AI Lab | 2020–2021
+Built NLP models for Filipino-language sentiment analysis that achieved 89% accuracy on local social media datasets.
+Co-authored two academic conference papers on natural language processing methods and transfer learning applications.
+Improved experiment reproducibility by 25% by integrating MLflow tracking and structured version control."
+Jerome_David_Lim.pdf,"Jerome David Lim 
+SOFTWARE ENGINEER 
+Quezon City, Philippines | +63 917 888 9988 | jerome.lim@email.com  
+ 
+Objective 
+ 
+To obtain a challenging software engineer position in a dynamic and innovative organization where I can 
+use my technical and analytical skills. 
+ 
+Experience 
+ 
+Software Engineer | CodeWave Technologies​
+2021 – Present 
+●​
+Improved system performance by 28% by refactoring legacy code in Java 
+and .NET Core. 
+●​
+Developed REST APIs serving 50K+ daily requests with 99.9% uptime. 
+●​
+Reduced bug counts by 20% by applying unit test coverage across modules. 
+ 
+Junior Developer | SoftDev Labs​
+2019 – 2021 
+●​
+Designed and deployed a task-tracking app adopted by 200+ internal 
+employees. 
+●​
+Cut load time by 35% by optimizing SQL queries and indexing strategies. 
+●​
+Collaborated with QA team to automate regression testing, improving release 
+speed. 
+ 
+Education 
+ 
+Ateneo de Manila University, B.S. in Computer Science​
+2020 
+• President, Programming Club 
+• Dean’s Lister (2017–2020) 
+ 
+Certifications 
+ 
+Oracle Certified Professional: Java SE Programmer​
+Microsoft Certified: Azure Developer Associate​
+Agile Software Development with Scrum (Coursera) 
+ 
+Skills & abilities 
+ 
+Java, Python, C#, Spring Boot, .NET Core, REST APIs, SQL, Git, Docker, Agile Development"
+Ryan_Nelson.pdf,"Ryan Nelson
+F R E S H E R  S O F T W A R E  D E V E L O P E R  
+Executive Profile
+I consider myself a team player and ethics
+maintainer. When it comes to coding I
+always try to be be well informed about
+the technology and its application. Would
+like to join any firm as a software
+developer in machine learning projects.
+Other Activities
+Machine learning - Stanford University
+SAP Fundamentals - Arjuvo Limited
+Projects
+Classification of Cassava Leaves
+Skills
+Machine Learning, Software Engineering,
+Python, Java, SAP,C programming
+Work Experience
+Accenture  
+Software Developer, Apr 2019 - Dec 2020 
+Worked on multiple projects that dealt with system frame
+development and solution supply.
+Education
+B.Tech Computer Science From JNTU, 2019"
+Christian_Von_Kelin.pdf,"Christian Von
+Kelin
+J U N I O R  A N A L Y S T
+Executive Profile
+As a junior analyst I currently work with
+data preprocessing and data cleaning
+before sending them to Machine Learning
+Models. I am also simultaneously training
+to be a machine learning engineer to work
+closely with teams that build models and
+would like to join a venture for such
+opportunity.
+Other Activities
+Data Analysis - Python
+Projects
+Time-series Forecasting 
+Identifying Phished Website
+Skills
+Data Analysis, Tableau, PowerBI, R, Python,
+Statistical Analysis, L1 L2 Regression,
+Machine Learning.
+Work Experience
+R&M Solutions 
+Data Analyst Intern, Dec 2019 - Mar 2020
+My role as a data analyst was to provide insights and important trends
+inside the company and it's clients' data to measure out the best
+possible way in which profitability could be maintained.
+Education
+B.Tech from AMN College of Engineering, Hosiyarpur in 2020"
+Patricia_Ann_Cruz.pdf,"Patricia Anne Cruz 
+QA ANALYST 
+Makati, Philippines | +63 917 555 2211 | patricia.cruz@email.com  
+ 
+Objective 
+ 
+To obtain a challenging QA Analyst position in a dynamic and innovative organization where I can use my 
+technical and analytical skills. 
+ 
+Experience 
+ 
+QA Analyst | TechTrust Solutions​
+2021 – Present 
+●​
+Reduced defect leakage by 22% by implementing end-to-end automated test 
+suites with Selenium. 
+●​
+Shortened regression cycles by 30% by designing reusable test cases in 
+TestRail. 
+●​
+Improved collaboration by integrating automated test results into JIRA, 
+enabling faster bug tracking. 
+ 
+Software QA Tester | InnovateSoft PH​
+2019 – 2021 
+●​
+Increased release stability by 18% through risk-based testing strategies. 
+●​
+Validated 100+ REST APIs using Postman, ensuring 98% coverage of 
+business-critical endpoints. 
+●​
+Enhanced test documentation by 25% by standardizing test case writing.​
+ 
+ 
+Education 
+ 
+University of Santo Tomas, B.S. in Information Technology​
+2019 
+• Dean’s Lister (2017–2019) 
+• Thesis: Automated Testing Framework for Web Applications 
+ 
+Certification 
+ 
+ISTQB Certified Tester – Foundation Level​
+Selenium WebDriver Advanced (Udemy)​
+Agile Testing Foundations 
+ 
+Skills & abilities 
+ 
+Manual Testing, Selenium, JUnit, Postman, TestRail, JIRA, Regression Testing, API Testing, Agile/Scrum"
+Christine_Joy_Navarro.pdf,"Christine Joy Navarro 
+DEVOPS ENGINEER 
+Manila, Philippines | +63 919 222 5678 | christine.navarro@email.com 
+ 
+Objective 
+ 
+To obtain a challenging DevOps engineer position in a dynamic and innovative organization where I can 
+use my technical and analytical skills. 
+ 
+Experience 
+ 
+DevOps Engineer | AgileWorks PH​
+2021 – Present 
+●​
+Reduced deployment time by 45% by automating pipelines using Jenkins 
+and GitLab CI. 
+●​
+Improved monitoring efficiency by implementing Prometheus and Grafana 
+dashboards. 
+●​
+Increased team productivity by creating reusable Docker images across 
+projects. 
+ 
+Junior DevOps Specialist | TechNova Systems​
+2018 – 2021 
+●​
+Decreased server downtime by 20% through proactive system monitoring. 
+●​
+Streamlined release process by introducing containerized builds, cutting 
+errors by 30%. 
+●​
+Supported multiple teams in adopting infrastructure automation with Ansible. 
+ 
+Education 
+ 
+Polytechnic University of the Philippines, B.S. in Computer Engineering​
+2018 
+●​
+Dean’s Lister (2016–2018) 
+ 
+Certification 
+ 
+Docker Certified Associate 
+Kubernetes Administrator (CKA) 
+Jenkins Certified Engineer 
+ 
+Skills & abilities 
+ 
+CI/CD, Docker, Kubernetes, Jenkins, GitLab CI, Python, Bash, Ansible, Monitoring (Prometheus, 
+Grafana)"
+Katrina_Louise_Tan.docx,"Katrina Louise Tan
+Manila, Philippines | katrina.tan@email.com | +63 927 555 8899 
+Education
+M.S. in Data Science – Asian Institute of Management, 2021
+Thesis: Ensemble Learning for Rare Disease Prediction
+B.S. in Statistics – University of Santo Tomas, 2018
+Certifications
+IBM Data Science Professional Certificate (Coursera)
+Applied Machine Learning in Python (University of Michigan)
+AWS Certified Machine Learning – Specialty
+Skills
+Python, R, scikit-learn, XGBoost, Time-Series Analysis, SQL, Statistics, Data Visualization, Machine Learning
+Experience
+Data Scientist | HealthData Analytics | 2022–Present
+Reduced hospital readmission rates by 15% by designing predictive models with scikit-learn and structured patient datasets.
+Achieved 85% AUROC with a risk scoring system that identified high-risk patients for early intervention.
+Decreased pipeline deployment time by 30% through the implementation of automated CI/CD workflows.
+Machine Learning Analyst | RetailNext PH | 2020–2022
+Increased ROI of marketing campaigns by 12% by clustering customers based on purchasing behavior.
+Improved demand forecasting accuracy by 20% by combining ARIMA and Prophet time-series models.
+Reduced ML training runtime by 35% by parallelizing workloads on GPU clusters.
+Graduate Research Assistant | AIM | 2019–2020
+Published a peer-reviewed paper on handling class imbalance in rare disease datasets.
+Built ensemble cancer detection models that achieved 92% recall on imbalanced samples.
+Improved reproducibility by standardizing Jupyter Notebook workflows and Dockerized environments."
+Adrian_Gomez.docx,"Adrian Gomez
+Quezon City, Philippines |  adrian.gomez@email.com |  +63 912 345 6789 
+Education
+B.S. in Computer Science – University of the Philippines Diliman, 2020
+Graduated Cum Laude
+Best Thesis Award: Optimizing API Performance through Asynchronous Python
+Certifications
+PCEP™ Certified Entry-Level Python Programmer
+AWS Certified Developer – Associate
+SQL for Data Science (Coursera)
+Skills
+Python, Flask, FastAPI, Pandas, NumPy, SQL, Git, Docker, REST APIs, Unit Testing
+Experience
+Software Engineer | BrightTech Solutions | 2021–Present
+Reduced API response times by 35% by redesigning monolithic endpoints into microservices using FastAPI and asynchronous programming.
+Improved reporting performance by 25% by optimizing SQL queries and implementing caching strategies across key dashboards.
+Increased overall code reliability by 20% by introducing a PyTest-driven testing framework and enforcing CI/CD integration.
+Junior Python Developer | CodeCraft Labs | 2020–2021
+Automated ETL pipelines to process 500K+ records daily, saving an average of 15 staff hours weekly and reducing manual workload.
+Lowered bug occurrence rates by 15% by introducing structured testing practices and consistent code review processes.
+Enhanced dashboard refresh time by 40% through backend script restructuring and efficient data handling techniques.
+Software Development Intern | Nexa Innovations | 2019
+Migrated 50+ legacy scripts from Python 2 to Python 3 with zero downtime, ensuring backward compatibility and stability.
+Developed a web scraper that reduced competitor market research time by 90% by automating data collection processes.
+Authored documentation for 20+ reusable utility functions, which sped up onboarding time for new developers."
+Andre_Carlo_Bautista.pdf,"Andre Carlo Bautista 
+CLOUD ENGINEER 
+Taguig, Philippines | +63 917 666 4433 | andre.bautista@email.com 
+ 
+Objective 
+ 
+To obtain a challenging cloud engineer position in a dynamic and innovative organization where I can use 
+my technical and analytical skills. 
+ 
+Experience 
+ 
+Cloud Engineer | CloudSphere PH​
+2020 – Present 
+●​
+Reduced infrastructure costs by 25% by implementing auto-scaling policies 
+in AWS. 
+●​
+Deployed Kubernetes clusters for microservices, improving system reliability 
+by 20%. 
+●​
+Improved release cycles by 35% by setting up CI/CD pipelines in Jenkins. 
+ 
+Systems Engineer | NetCore Technologies​
+2017 – 2020 
+●​
+Migrated 50+ on-prem applications to Azure, reducing downtime by 30%. 
+●​
+Enhanced system security by implementing IAM policies and auditing. 
+●​
+Cut deployment errors by 40% through Infrastructure-as-Code (Terraform). 
+ 
+Education 
+ 
+Mapúa University, B.S. in Electronics and Communications Engineering​
+2017 
+●​
+ Thesis: Scalable IoT System Using Cloud Infrastructure 
+ 
+Certifications 
+ 
+JAWS Certified Solutions Architect – Professional 
+Microsoft Certified: Azure Administrator Associate 
+Google Cloud Professional Cloud Architect 
+ 
+Skills & abilities 
+ 
+AWS, Azure, GCP, Terraform, Kubernetes, Docker, Jenkins, Linux, CI/CD, Networking"
+Daniel_Joseph_Mercado.docx,"Daniel Joseph Mercado
+Pasig, Philippines | daniel.mercado@email.com |  +63 917 222 3344 
+Education
+B.S. in Information Systems – Ateneo de Manila University, 2019
+Dean’s Lister (2016–2019)
+Capstone Project: Customer Retention Models in Retail Banking
+Certifications
+Microsoft Certified: Data Analyst Associate (Power BI)
+SQL for Analytics (DataCamp)
+Tableau Desktop Specialist
+Skills
+SQL, Power BI, Tableau, Python (Pandas, NumPy), Excel, Data Visualization, Data Cleaning, A/B Testing
+Experience
+Data Analyst | FinServe PH | 2020–Present
+Increased customer retention by 10% by developing churn dashboards in Power BI with predictive KPI monitoring.
+Cut reporting turnaround time by 50% by automating recurring SQL queries and Python scripts for financial metrics.
+Enhanced business decision-making by presenting actionable insights from monthly sales trend analysis.
+Business Intelligence Analyst | InsightWorks | 2019–2020
+Lifted digital campaign CTR by 18% by conducting A/B test analyses and refining audience targeting strategies.
+Boosted dashboard adoption by 30% by redesigning BI reports into interactive, self-service formats for executives.
+Reduced ETL errors by 25% by implementing automated data validation checks across multiple systems.
+Data Analyst Intern | Globe Data Labs | 2018
+Shortened data-cleaning time by 40% by preprocessing 100K+ survey responses with Pandas and Excel macros.
+Delivered insights that improved Net Promoter Score (NPS) by 5% for mobile customer feedback campaigns.
+Automated repetitive Excel tasks with VBA, reducing manual workload by 8 hours per week."
+Joshua_Nathaniel_Villanueva.docx,"Joshua Nathaniel Villanueva
+ Makati, Philippines |  joshua.villanueva@email.com |  +63 928 123 5566 
+Education
+B.S. in Computer Engineering – Mapúa University, 2020
+Graduated with Distinction
+President, Data Science Student Society
+Certifications
+Google Cloud Professional Data Engineer
+PyTorch Developer Certificate
+Databricks Lakehouse Fundamentals
+Skills
+Python, PyTorch, TensorFlow, scikit-learn, SQL, Spark, Docker, Kubernetes, Data Engineering, Machine Learning
+Experience
+AI/ML Engineer | DeepCore Analytics | 2022–Present
+Increased document retrieval accuracy by 28% by implementing a Retrieval-Augmented Generation (RAG) pipeline for legal case search.
+Improved system latency by 40% by containerizing ML services with Docker and deploying via Kubernetes clusters.
+Reduced annotation time by 20% by building semi-supervised labeling tools with active learning strategies.
+Data Scientist | SmartEdge PH | 2021–2022
+Detected 95% of fraudulent transactions by designing anomaly detection models on large-scale financial datasets.
+Reduced ETL time by 60% when processing 50M+ transaction records by leveraging Spark.
+Prevented 10% of fraudulent claims through actionable insights presented to the compliance team.
+Python Developer | ByteForge Solutions | 2020–2021
+Automated 80% of repetitive data preprocessing, saving an average of 25 staff hours monthly.
+Built reusable Python libraries that were adopted by 3 internal teams, improving project delivery efficiency.
+Optimized analytics scripts to run 30% faster by restructuring data pipelines and applying vectorized operations."
+Anuva_Goyal.pdf,"ANUVA GOYAL 
  
 D.O.B.: 1st October 2000 
 Gender: Female 
@@ -224,152 +563,52 @@ Volunteering and social service
  
 Phone: +91 9520349542 - Email: anuvagoyal111@gmail.com 
 GitHub: https://github.com/AnuvaGoyal"
-AnuvaGoyal_Latex.pdf,"ANUVA GOYAL
-[ anuvagoyal111@gmail.com
-½ Agra, Uttar Pradesh, India
- github.com/AnuvaGoyal
-PROJECTS
-• Mental Healthcare Chatbot that provides ad-
-vice to the user based on diﬀerent categories
-of mental health problems using a dataset
-webscraped from counselchat.com (Nov 2021)
-• Full stack Speech Emotion based Movie
-Recommender System using the RAVDESS
-Dataset and Web Scraping techniques (Oct
-2021)
-• Finding a Perfect Fit, a model to parse re-
-sumes using Pytesseract, NLP and XG Boost
-and Random Forest classiﬁcation techniques
-(Aug 2021)
-• Face Mask Detection which detects the face
-using Haar Cascade Classiﬁer and classiﬁes
-the image into one of the three categories-
-Without Mask, With Mask and Incorrect Mask
-(May 2021)
-EDUCATION
-B.Tech, Electrical Engineering with
-Computer Science Specialisation
-Dayalbagh Educational Institute, Agra
- July 2019– Present (SGPA 9.35 - 4 SEM)
-Higher Secondary School Certiﬁcate
-St. Clare’s Senior Secondary School, Agra
- 2019 (94%)
-Secondary School Certiﬁcate
-St. Clare’s Senior Secondary School, Agra
- 2017 (CGPA 10)
-PUBLICATION
-researchgate.net/proﬁle/Anuva_Goyal
-SKILLS
-C, C++
-○○○○○
-Python, SQL
-○○○○○
-Data Structures
-○○○○○
-CSS, HTML
-○○○○○
-Machine Learning Frameworks: NumPy,
-Pandas, Tensorﬂow, Scikit-Learn, OpenCV,
-Pytesseract, BeautifulSoup
-INTERESTS
-• ML and Deep Learning.
-• NLP and Computer Vision
-EXPERIENCE
-Summer Intern
-Genisup India Pvt. Ltd., Hosur, Tamil Nadu
- June 2021 – Aug 2021
-½ Remote
-• Internship on the topic NLP: Topic Modeling to assign the
-theme or topic for any news article on internet using Machine
-Learning techniques.
-• Worked on proxy rotation and Web Scraping
-• Performed LDA Topic Modeling on “The Hindu” news articles
-and obtained precision score of 0.906.
-Intern Trainee
-VUGS Technologies Pvt. Ltd., Agra, Uttar Pradesh
- May 2021 – June 2021
-½ Remote
-• Built an OCR using Pytesseract and NER Text Classiﬁcation
-Model to categorize detected text into Name, E-mail Address,
-Phone number and Date using NLTK,SpaCy and BERT
-• Created an OCR for Handwritten text [A-Z, 0-9] using CNN
-architecture
-• Built a Face Recognition Model and Face Mask Detection
-Model using OpenCV and Haar Cascade Classiﬁer.
-TRAININGS
-Deep Learning and Computer Vision A-Z: OpenCV,
-SSD, GANs
-Udemy
- Nov 2021 – Dec 2021
-30 Days of Google Cloud
-Google LLC
- Oct 2021 – Nov 2021
-Neural Networks and Deep Learning
-Coursera
- Mar 2021 – Apr 2021
-Machine Learning A-Z: Hands on Python and R
-in Data Science
-Udemy
- Dec 2020 – Feb 2021
-ACHIEVEMENTS
-• Speaker at ML/AI Event organized by the Google Developers
-Student Club, DEI (Dec 2021)
-• Secured 3rd position in TECH-A-THON organized by The ECE
-Society, BIT Mesra, Ranchi (Oct 2021)
-• Attended online KLA Workshop on AI and HPC in Semicon-
-ductor Manufacturing organized by IIT Madras (Sep 2021)
-• Won 1st prize in the online competition Game of Brands orga-
-nized by SGGSCC, University of Delhi (Mar 2021)"
-candidate_056.pdf,"Christian Von
-Kelin
-J U N I O R  A N A L Y S T
-Executive Profile
-As a junior analyst I currently work with
-data preprocessing and data cleaning
-before sending them to Machine Learning
-Models. I am also simultaneously training
-to be a machine learning engineer to work
-closely with teams that build models and
-would like to join a venture for such
-opportunity.
-Other Activities
-Data Analysis - Python
-Projects
-Time-series Forecasting 
-Identifying Phished Website
-Skills
-Data Analysis, Tableau, PowerBI, R, Python,
-Statistical Analysis, L1 L2 Regression,
-Machine Learning.
-Work Experience
-R&M Solutions 
-Data Analyst Intern, Dec 2019 - Mar 2020
-My role as a data analyst was to provide insights and important trends
-inside the company and it's clients' data to measure out the best
-possible way in which profitability could be maintained.
-Education
-B.Tech from AMN College of Engineering, Hosiyarpur in 2020"
-candidate_042.pdf,"Ryan Nelson
-F R E S H E R  S O F T W A R E  D E V E L O P E R  
-Executive Profile
-I consider myself a team player and ethics
-maintainer. When it comes to coding I
-always try to be be well informed about
-the technology and its application. Would
-like to join any firm as a software
-developer in machine learning projects.
-Other Activities
-Machine learning - Stanford University
-SAP Fundamentals - Arjuvo Limited
-Projects
-Classification of Cassava Leaves
-Skills
-Machine Learning, Software Engineering,
-Python, Java, SAP,C programming
-Work Experience
-Accenture  
-Software Developer, Apr 2019 - Dec 2020 
-Worked on multiple projects that dealt with system frame
-development and solution supply.
-Education
-B.Tech Computer Science From JNTU, 2019"
+Liza_Marie_Torres.pdf,"Liza Marie Torres  
+WEB DEVELOPER 
+Cebu City, Philippines | +63 918 444 7788 | liza.torres@email.com 
+ 
+Objective 
+ 
+To obtain a challenging web developer position in a dynamic and innovative organization where I can use 
+my technical and analytical skills. 
+ 
+Experience 
+ 
+Front-End Developer | BrightWeb Studio ​
+2021 – Present 
+●​
+Increased page load speed by 40% by optimizing React components and 
+lazy loading assets. 
+●​
+Improved SEO rankings by implementing accessibility best practices, lifting 
+traffic by 25%. 
+●​
+Built mobile-first UI libraries that reduced development time across projects 
+by 30%. 
+ 
+Web Developer | PixelPoint Media​
+2018 – 2021 
+●​
+Designed 20+ responsive websites for SMEs, increasing client conversions 
+by an average of 15%. 
+●​
+Automated deployment pipelines with Netlify, reducing release times by 50%. 
+●​
+Enhanced cross-browser compatibility by standardizing CSS frameworks. 
+ 
+Education 
+ 
+Cebu Institute of Technology, B.S. in Information Systems​
+2018 
+●​
+Capstone: Progressive Web Application for Local SMEs 
+ 
+Certifications 
+ 
+FreeCodeCamp Responsive Web Design 
+JavaScript Algorithms and Data Structures (Udemy) 
+Google Mobile Web Specialist 
+ 
+Skills & abilities 
+ 
+HTML5, CSS3, JavaScript, React, Node.js, Next.js, Tailwind, REST APIs, GitHub, Responsive Design"

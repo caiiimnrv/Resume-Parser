@@ -1,0 +1,25 @@
+# requirements.txt 
+
+# Core numerical stack
+numpy==1.26.4
+pandas==2.2.2
+
+# NLP + embeddings
+spacy==3.7.4
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0.post1   # if you have GPU, replace with faiss-gpu==1.8.0.post1
+
+# Text processing
+regex==2024.5.15   # better than builtin re for advanced patterns
+
+# Document parsing
+PyMuPDF==1.24.4        # PDF support (import fitz)
+python-docx==1.1.0     # Word documents
+
+# Utilities
+tqdm==4.66.5           # progress bars (works in notebook + scripts)
+openpyxl==3.1.5        # optional, for Excel export
+pyarrow==16.1.0        # works with pandas + numpy 1.26
+
+# Jupyter (if using notebooks)
+ipykernel==6.29.5
