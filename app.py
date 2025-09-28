@@ -302,7 +302,16 @@ else:
 # Footer / tips
 st.markdown('''
 ---
-**Tips & Notes**
-- This is a simple demo. For production, consider: persistent storage (S3/GCS), secure uploads, async processing, robust PDF parsing and OCR (Tesseract) for scans, and careful PII handling.
-- You can extend extraction with spaCy or regex templates to capture skills, education, and experience.
+👋 **Hey, thanks for checking this out!**  
+I built this app as a demo to show how we can parse resumes, create embeddings, and run semantic search on them.  
+
+### Stuff I might add next:
+- OCR support so scanned resumes don’t get ignored.  
+- Bigger embedding models for more accurate searches.  
+- A nicer UI to filter candidates by skills, years of experience, or location.  
+- Export options (CSV/JSON) so recruiters can use the parsed data directly.  
+- Maybe even a job-matching or mini ATS dashboard on top of this.  
+
+Thanks again for trying it out — have fun parsing and happy hacking! 🚀
 ''')
+
