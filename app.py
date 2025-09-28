@@ -80,21 +80,25 @@ def extract_text_from_txt(file_bytes: bytes) -> str:
 
 EMAIL_RE = re.compile(r"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+")
 PHONE_RE = re.compile(r"(\+?\d[\d\-(). ]{7,}\d)")
-NAME_HINT_RE = re.compile(r"^([A-Z][a-z]+\s[A-Z][a-z]+(?:\s[A-Z][a-z]+)?)$")
+NAME_HINT_RE = re.compile(r"^([A-Z][a-zA-Z'-]+\s+[A-Z][a-zA-Z'-]+(?:\s+[A-Z][a-zA-Z'-]+)*)$")
 
 
 def extract_basic_fields(text: str) -> Dict[str, List[str]]:
     emails = EMAIL_RE.findall(text)
     phones = PHONE_RE.findall(text)
-    # naive name detection: first two consecutive capitalized words at the start
     names = []
+
     lines = [l.strip() for l in text.splitlines() if l.strip()]
-    if lines:
-        first = lines[0]
-        # if first line looks like a name
-        if NAME_HINT_RE.match(first):
-            names = [first]
-    return {"emails": list(dict.fromkeys(emails)), "phones": list(dict.fromkeys(phones)), "names": names}
+    for line in lines[:5]:  # check top 5 lines
+        if NAME_HINT_RE.match(line):
+            names = [line]
+            break
+
+    return {
+        "emails": list(dict.fromkeys(emails)),
+        "phones": list(dict.fromkeys(phones)),
+        "names": names
+    }
 
 
 # Simple text chunker
@@ -164,10 +168,8 @@ def search_index(index, query_emb: np.ndarray, k: int = 5) -> Tuple[np.ndarray, 
 
 # --------------------------- Streamlit App ---------------------------
 
-st.write("✅ App loaded successfully — waiting for file upload")
-
 # st.set_page_config(page_title="Resume Parser & Semantic Search", layout='wide')
-st.title("Resume Parser — with Embeddings & Semantic Search (Phase 3)")
+st.title("Resume Parser — with Embeddings & Semantic Search")
 
 # Sidebar: model selection and settings
 with st.sidebar:
